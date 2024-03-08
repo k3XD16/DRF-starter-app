@@ -29,7 +29,7 @@ Windows: python -m venv .venv
 **Activate:**
 
 ```
-Linux/macOS:  source env/bin/activate
+Linux/macOS:  source .venv/bin/activate
 Windows:  .venv\Scripts\activate
 ```
 
