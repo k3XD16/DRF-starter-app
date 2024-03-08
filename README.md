@@ -23,7 +23,7 @@ Why? Isolates your project's dependencies from other Python projects, avoiding c
 
 ```
 Linux/macOS: python3 -m venv .venv
-Windows: py -m venv .venv
+Windows: python -m venv .venv
 ```
 
 **Activate:**
