@@ -48,7 +48,7 @@ Install Django:
 
 Add DRF to Your Django Project:
 
-Open `myproject/settings.py`
+Open `drf_project/settings.py`
 Find **INSTALLED_APPS** and add: ` 'rest_framework' `
 
 
